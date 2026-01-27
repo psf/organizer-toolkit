@@ -1,3 +1,4 @@
+- [Loren Crary](https://www.linkedin.com/in/loren-crary/)
 - [Abigail Mesrenyame Dogbe](https://github.com/mesrenyamedogbe)
 - [Mason Egger](https://github.com/masonegger)
 - [Ben Berry](https://github.com/bengerman13)
