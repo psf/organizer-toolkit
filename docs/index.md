@@ -30,7 +30,7 @@ You can follow us on [X](https://twitter.com/ThePSF), [Mastodon](https://fosstod
 
 ## Adopting this Kit
 
-This kit was inspired by PyLadies Global.
+This kit was adopted from the PyLadies Global Kit.
 
 ## Local Context Matters
 
