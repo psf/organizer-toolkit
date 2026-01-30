@@ -42,8 +42,8 @@ Before getting started, you'll need to install the following tools:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/masonegger/community-organizer-kit-demo.git
-   cd community-organizer-kit-demo
+   git clone https://github.com/psf/organizer-toolkit.git
+   cd organizer-toolkit
    ```
 
 2. Install dependencies:
