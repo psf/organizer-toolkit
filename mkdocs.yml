@@ -1,0 +1,35 @@
+site_name: Python Community and Conference Kit
+site_author: Python Software Foundation
+repo_url: https://github.com/masonegger/community-organizer-kit-demo
+repo_name: masonegger/community-organizer-kit-demo
+edit_uri: edit/main/docs/
+theme:
+  name: readthedocs
+copyright: "Python Software Foundation © 2025"
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - toc:
+      permalink: true
+      toc_depth: 3
+nav:
+  - Home: index.md
+  - "Prospective Community Organizers": prospective-organizers/index.md
+  - "Current Community Organizers": "current-organizers/index.md"
+  - "Reviving a Dormant Community": "reviving-dormant/index.md"
+  - "Event MVP": "event-mvp/index.md"
+  - "Conference Organizing": "conference-organizing/index.md"
+  - "When Things Go Wrong": "when-things-go-wrong/index.md"
+  - "Governance, Trademarks, and Policies": "governance/index.md"
+  - "Building and Growing a Community": "growing-a-community/index.md"
+  - "Handing Over a Community": "handing-over-a-community/index.md"
+  - "Dealing with Burnout": "burnout/index.md"
+  - "Resources": "resources/index.md"
+  - "FAQ": "faq/index.md"
+plugins:
+  - search
