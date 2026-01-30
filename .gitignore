@@ -1,0 +1,31 @@
+.lycheeignore
+commit-msg.md
+.idea/*
+.DS_Store
+__pycache__/
+.cache/
+site/*
+
+# Virtual environments
+venv/
+.venv/
+
+# Build outputs
+output/
+dist/
+build/
+
+# UV package manager
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Lychee cache
+.lycheecache/
