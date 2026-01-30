@@ -24,7 +24,7 @@ To receive important community news, get help, ask questions:
 - [Sign up for our Newsletter](https://www.python.org/psf/newsletter/)
 - [Help and General Contact](https://www.python.org/about/help/)
 - [Submit Website Bug](https://github.com/python/pythondotorg/issues)
-- [Python Discord](https://pythondiscord.com)
+- [Python Discord](https://discord.gg/4Hm36PPgpG)
 
 You can follow us on [X](https://twitter.com/ThePSF), [Mastodon](https://fosstodon.org/@ThePSF), [Bluesky](https://bsky.app/profile/python.org), and [LinkedIn](https://www.linkedin.com/company/thepsf/).
 
