@@ -2,7 +2,7 @@
 name: Organizers Wishlist
 about: Share ideas or requests you'd love to see in the organizers kit.
 title: "[WISHLIST]"
-labels: ''
+labels: wishlist
 assignees: mesrenyamedogbe
 
 ---
