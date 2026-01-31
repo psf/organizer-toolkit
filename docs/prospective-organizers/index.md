@@ -16,7 +16,7 @@ A Python software community is not meant for a one-time event or workshop. We en
 
 Ideally, the organizers in your group should be anyone who is enthusiastic about bringing people together to learn, share knowledge and contribute to the spreading of the use of the Python programming language. We also suggest at least two co-organizers in your group to help share the workload and prevent burnout from any single organizer.
 
-When starting a chapter, we recommend that you check if a community already exists. Check [Local User Groups Worldwide](https://wiki.python.org/moin/LocalUserGroups) to find if there is already a group in your area. If there is no Python user group in your area, please check [Starting Your User Group](https://wiki.python.org/moin/StartingYourUsersGroup) to start one. If it already exists and is dormant, check the [Reviving a Dormant Community](../reviving-dormant/index.md) section in this document.
+When starting a chapter, we recommend that you check if a community already exists. Check [Local User Groups Worldwide](https://wiki.python.org/moin/LocalUserGroups) to find if there is already a group in your area. If there is no Python user group in your area, this is probably your cue to start one. If it already exists and is dormant, check the [Reviving a Dormant Community](../reviving-dormant/index.md) section in this kit to learn about how you can help revive the group.
 
 ## Process Overview
 
