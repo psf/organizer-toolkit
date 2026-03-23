@@ -7,7 +7,7 @@ Ensure that your community is added to the Python Software Community User Groups
 ## Event Hosting
 
 ## Websites
-
+ asdasd
 ## Email
 
 We recommend that all Python software communities have their own general email address (e.g. pythonghana.org). You and your other co-organizers can manage that email address how you'd like (e.g. all co-organizers can log in; all email is forwarded; only one organizer manages it; etc).
