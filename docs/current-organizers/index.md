@@ -6,7 +6,107 @@ Ensure that your community is added to the Python Software Community User Groups
 
 ## Event Hosting
 
+### Finding a Venue
+
+- Start with free or low-cost options. Universities, libraries, co-working spaces, coffee shops, and tech companies often have meeting rooms available at no charge or for a small fee.
+
+- Ensure accessibility. Choose venues that are wheelchair accessible, have accessible restrooms, and are near public transportation, where possible. Ask attendees about accessibility needs when they register to ensure work towards meeting the majority of them.
+
+- Consider the atmosphere. Different venues work for different event types. Meetups might work in a coffee shop or open spaces, while workshops or talks benefit from a more formal setting with AV equipment.
+
+- Test the space. Visit the venue beforehand to check the WiFi strength, seating capacity, lighting, acoustics, and the availability of necessary technical equipment (projector, screen, microphone, etc.).
+
+- Plan for growth. Choose a venue slightly larger than your current attendance to accommodate growth, but not so large that a smaller turnout feels disappointing.
+
+
+### Planning Your Event
+
+- Have a clear purpose. Define what you want the event to accomplish. Is it a social mixer, a technical session, a lightning talk session, or something else? Communicate this clearly to attendees.
+
+- Set a consistent schedule. Regular events (e.g., second Tuesday of each month) make it easier for people to remember and plan to attend. This usually works for smaller events.
+
+- Plan ahead. Send out event announcements at least 2-3 weeks in advance (depending on the event type) so people can adjust their schedules.
+
+- Provide clear logistics. Include date, time, location, parking information, entry instructions, and what attendees should bring (if anything). Update attendees if anything changes.
+
+- Consider the duration. Most meetups work well at 1.5-2 hours. Workshops or conferences may be longer, but always include breaks.
+
+
+### During the Event 
+
+- Arrive early to set up. Plan to arrive way before the attendees. Arrive at least 30 minutes before the event starts to test tech, arrange seating, and greet early arrivals. The time largely depends on the event size. The bigger the event, the earlier you should arrive at the venue. 
+
+- Create a welcoming environment. Greet people as they arrive. Have ushers to ensure attendees find the venue with ease, seating and refreshments. For smaller events, introduce newcomers to regulars.
+
+- Manage the tech. Test microphones, projectors, and the internet before you need them. Have a backup plan if technical equipment fails (printed slides, speaking without visuals, etc.).
+
+- Keep things on schedule. Start on time (even if not everyone is there) to respect attendees' time. Use a timer for talks and stick to it.
+
+- Foster interaction. Leave time for questions, discussion, and networking. 
+Take photos or notes. Document the event for later recap and promotion (with attendees' permission).
+
+
+### Post Event 
+
+- Send a thank-you message to attendees, speakers, and venue hosts. Share highlights or photos from the event.
+
+- Gather feedback. A survey or casual poll helps you understand what worked and what to improve next time.
+
+- Share resources. Post speaker slides, video recordings (if available), notes, or links to relevant materials.
+
+- Follow up with speakers. Thank them specifically and ask whether they have recommendations for upcoming events.
+
+- Update your community calendar. Post event details and announcements to your website, social media, and Python event calendars.
+
+
 ## Websites
+
+A website serves as your community's home base. It's where people can learn about the community and its mission, find information about upcoming events, get contact information for organizers, review your Code of Conduct 
+
+
+### Getting Started with a Website 
+
+- Choose a platform. You can start with community platforms like GitHub Pages or Notion, free and simple for smaller communities.
+
+- Register a domain. A custom domain (e.g., pythonghana.org) looks more professional than a subdomain and is easier to remember. Domain registrars like Namecheap, GoDaddy, or Google Domains offer some affordable options.
+
+- Keep it simple. You don't need a fancy website. A clean, easy-to-navigate site is better than a complicated one. Focus on providing useful information.
+
+
+### Essential Pages
+
+- Home/About page explains who you are, your mission, and what attendees can expect. 
+
+- Events page displays upcoming events and past events. Include details like date, time, location, and how to register.
+
+- Contact page provides email addresses and social media links where people can reach organizers or ask questions.
+
+- Code of Conduct page includes your community's Code of Conduct, so attendees know what behavior is expected and acceptable.
+
+- Information page has helpful details about your community. 
+    - FAQs to address common questions.
+    - Venue information  like address, parking, accessibility, public transit options, WiFi password if applicable.
+    - Grants and funding opportunities, sponsorship requests, or how people can support the community.
+    - Swag sales or distribution (stickers, t-shirts, etc.), include information about how to order or get it at events.
+
+
+### Keeping Website Updated
+
+- Update regularly. An outdated website (especially past event dates) makes your community look inactive. Schedule time to update content. Automate where possible.
+
+- Make it easy to contribute. If you use GitHub or a system that allows multiple contributors, make it simple for co-organizers to update the site without needing technical skills.
+
+- Mobile-friendly design. Ensure your website looks good on phones and tablets, not just desktop computers.
+
+
+### Nice to have
+
+- Event registration integration. Connect your website to a registration tool (Meetup.com, Eventbrite, or a simple Google Form).
+
+- Add a Newsletter signup. Capture email addresses so you can send updates directly to interested attendees.
+
+- Job board or sponsorship page. If your community is large enough, you can facilitate job postings or sponsorships.
+
 
 ## Email
 
