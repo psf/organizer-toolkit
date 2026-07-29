@@ -38,13 +38,13 @@ Please [submit a grant request from the PSF](https://psfmember.org/grant-proposa
 
 ## Legal Status, Registration, and Fiscal Sponsorship
 
+!!! warning "This is not legal or tax advice"
+
+    Company, charity, and tax law differ enormously between countries, and sometimes between regions of the same country. Everything below is intended to help you ask the right questions of a local lawyer or accountant, not to replace one.
+
 Sooner or later, usually the first time a sponsor asks "who exactly are we paying?", organizers run into a question this toolkit cannot answer for you: does our community need to be a legally registered organization?
 
 This section explains how the relationship with the PSF actually works, how to recognize when you have outgrown an informal arrangement, and what your options are.
-
-!!! note "This is not legal or tax advice"
-
-    Company, charity, and tax law differ enormously between countries, and sometimes between regions of the same country. Everything below is intended to help you ask the right questions of a local lawyer or accountant, not to replace one.
 
 ### The PSF does not legally represent your community
 

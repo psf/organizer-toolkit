@@ -50,6 +50,10 @@ See [Legal Status, Registration, and Fiscal Sponsorship](../current-organizers/i
 
 ## PSF Fiscal Sponsorship
 
+!!! warning "This is not legal or tax advice"
+
+    Fiscal sponsorship, tax-exempt status, and non-profit registration are jurisdiction-specific. Check the current details on the [PSF Fiscal Sponsorees page](https://www.python.org/psf/fiscal-sponsorees/) and talk to a local lawyer or accountant before making decisions for your community.
+
 In addition to grants, meetups and conferences may receive ongoing logistical support from the PSF through the Fiscal Sponsoree program. This includes back-office support such as accounting, event insurance, and non-profit status. Find out more at <https://www.python.org/psf/fiscal-sponsorees/>
 
 Two things to check before you plan around it: the PSF is **not currently accepting new fiscal sponsoree requests**, and in practice the programme has supported groups and projects based in the United States. If you are outside the US, plan for a local solution instead.
