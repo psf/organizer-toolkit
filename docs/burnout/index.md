@@ -82,7 +82,7 @@ It’s completely okay to stop your involvement for a time. Everyone would prefe
 
 #### Acknowledge it
 
-- Don't minimize or ignore the signs—burnout is real and valid.
+- Don't minimize or ignore the signs; burnout is real and valid.
 
 - Admit to yourself and your team that you're struggling, rather than pretending everything is fine.
 
@@ -100,7 +100,7 @@ It’s completely okay to stop your involvement for a time. Everyone would prefe
 
 #### Practice Self-Care
 
-- Get adequate sleep, exercise, and nutrition—these affect your resilience.
+- Get adequate sleep, exercise, and nutrition; these affect your resilience.
 
 - Engage in activities that bring you joy and take a break.
 
