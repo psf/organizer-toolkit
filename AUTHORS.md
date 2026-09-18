@@ -6,6 +6,7 @@
 - [Keith Murray](https://github.com/KeithTheEE)
 - [Kevin Horn](https://github.com/khorn)
 - [Loren Crary](https://www.linkedin.com/in/loren-crary/)
+- [Mannie Young](https://www.mannieyoung.com)
 - [Mason Egger](https://github.com/masonegger)
 - [Marcelo Elizeche Landó](https://github.com/melizeche)
 - [Marie Nordin](https://github.com/riecatnor)
