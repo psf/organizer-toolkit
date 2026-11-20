@@ -1,3 +1,7 @@
+Listed below are contributors to the document from its previous incarnation as a document on Google Docs, and this page acts to preserve those contributions alongside the contributor list tracked by git for this project. This is a static, historical reference.
+
+# Authors 
+
 - [Abigail Mesrenyame Dogbe](https://github.com/mesrenyamedogbe)
 - [AJ Jordan](https://github.com/strugee)
 - [Ben Berry](https://github.com/bengerman13)
